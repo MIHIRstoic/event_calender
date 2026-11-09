@@ -1,0 +1,13 @@
+# Basic project ignore for Flutter Dart
+.packages
+.dart_tool/
+build/
+generated_plugin_registrant.dart
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
